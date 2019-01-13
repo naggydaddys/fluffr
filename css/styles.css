@@ -3,10 +3,10 @@ body{
   text-align: center;
 }
 h1,h4{
-  font-family: "Montserrat-Black";
+  font-weight: 900;
 }
 h2,h3{
-  font-family: "Montserrat-Bold";
+  font-weight: 700;
 }
 p{
   color: #8f8f8f;
@@ -48,7 +48,7 @@ p{
 .navbar-brand{
   font-family: 'Roboto', sans-serif;
   font-size: 2.5rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 .nav-item{
   padding: 0 18px;
@@ -125,6 +125,7 @@ p{
 .price-text{
   font-size: 3rem;
   line-height: 1.5;
+  font-weight: 600;
 }
 
 /* CALL TO ACTION */
